@@ -1,0 +1,21 @@
+{
+  /*
+   | This file is automatically updated by ModManifestBuilder
+   | when the project is compiled.
+   | 
+   | Changes made to this file may be overwritten.
+   | 
+   */
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "UniqueID": "ceddieeee.NoThanksKeepIt",
+  "Name": "No Thanks, Keep It",
+  "Author": "ceddieeee",
+  "Version": "1.0.0",
+  "Description": "NPCs return hated and disliked gifts back to your inventory.",
+  "MinimumApiVersion": "4.5",
+  "MinimumGameVersion": "1.6.15",
+  "EntryDll": "NoThanksKeepIt.dll",
+  "UpdateKeys": [
+    "Nexus:45862"
+  ]
+}

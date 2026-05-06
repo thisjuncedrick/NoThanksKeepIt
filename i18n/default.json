@@ -1,0 +1,12 @@
+{
+  "Config.EnableMod.Name": "Enable Mod",
+  "Config.EnableMod.Tooltip": "Turn the entire mod on or off.",
+
+  "Config.IncludeHatedGifts.Name": "Reject Hated Gifts",
+  "Config.IncludeHatedGifts.Tooltip": "If enabled, items hated by an NPC will be returned to your inventory after gifting.",
+
+  "Config.IncludeDislikedGifts.Name": "Reject Disliked Gifts",
+  "Config.IncludeDislikedGifts.Tooltip": "If enabled, items disliked by an NPC will also be returned to your inventory after gifting. Leave this off to discover dislikes through trial and error.",
+
+  "Config.GiftLimit.Disclaimer": "The friendship penalty still applies and the gift counts toward your daily and weekly limit."
+}
