@@ -36,7 +36,7 @@ Delete the mod folder from your `Stardew Valley/Mods` directory. Safe to remove 
 - Multiplayer has not been formally tested. The patch is scoped per-call and per-farmer, so it should behave correctly, if problem arise, please file a bug report.
 
 ### Bug Reports
-Found an NPC that is pocketing your item despite the mod being active? Post in the [Posts tab](https://www.nexusmods.com/stardewvalley/mods/45862?tab=posts) or file a [GitHub issue](../../issue). Please include:
+Found an NPC that is pocketing your item despite the mod being active? Post in the [Posts tab](https://www.nexusmods.com/stardewvalley/mods/45862?tab=posts) or file a [GitHub issue](../../issues). Please include:
 - Your [SMAPI log](https://smapi.io/log).
 - The name of the NPC.
 - The item you attempted to gift.
